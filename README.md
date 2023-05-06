@@ -1,5 +1,5 @@
-# Orb-Invaders
-Orb Invaders is a simple game created purely using Html, JS and CSS.
+# Meteor-Strike
+Meteor-Strike is a simple game created purely using Html, JS and CSS.
 
 # Librarys Used
 This game utilizes two librarys to ensure that the game has smooth animations and clean UI.
