@@ -1,5 +1,5 @@
 # Meteor-Strike
-Meteor-Strike is a simple game created purely using Html, JS and CSS.
+"Meteor-Strike" is a game with a minimalist design that was developed using only HTML, JS, and CSS.
 
 # Librarys Used
 This game utilizes two librarys to ensure that the game has smooth animations and clean UI.
